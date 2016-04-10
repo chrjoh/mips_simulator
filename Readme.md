@@ -12,10 +12,10 @@
     Mips uses combinatorial circuites to decode and execute 
     the instructions from the program running on the simulator.
  
- ### EXAMPLES:
+### EXAMPLES:
     mips aprog.o
  
- ## DIAGNOSTICS:
+## DIAGNOSTICS:
     0           - program executed normaly
     1           - wrong number of arguments
     2           - error opening file
